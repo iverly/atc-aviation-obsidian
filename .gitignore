@@ -43,3 +43,6 @@ GRTAGS
 GSYMS
 GTAGS
 TAGS
+
+# obsidian files
+.obsidian

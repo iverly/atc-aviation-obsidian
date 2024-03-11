@@ -1,7 +1,6 @@
 ---
 tags:
   - radio
-  - networks
 ---
 
 L'alphabet aéronautique est un code aéronautique utilisé à l'échelle mondiale pour la radiotéléphonie.

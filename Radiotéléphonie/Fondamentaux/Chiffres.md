@@ -1,7 +1,6 @@
 ---
 tags:
   - radio
-  - networks
 ---
 
 > [!info] La transmission des nombres en langue française comporte de très nombreuses différences par rapport aux recommandations de l'OACI
